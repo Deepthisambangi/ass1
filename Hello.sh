@@ -7,4 +7,5 @@ ls
 java --version
 jenkins --version
 git --version
-
+echo " It display info of Cpu "
+lscpu
